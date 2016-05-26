@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">learnactiviity</string>
+    <string name="start_new_activity">Start New Activity</string>
+    <string name="start_a_result_activity">Start A Result Activity</string>
+</resources>
